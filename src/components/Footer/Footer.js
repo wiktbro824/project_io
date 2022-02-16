@@ -2,7 +2,7 @@ import { render } from '../../shared/dom';
 
 const template = `
     <footer>
-        Copyright © 2021 CodersCamp
+        Projekt IO - Wiktoria Bronowska, Magdalena Białek, Nicole Wróbel
     </footer>
 `;
 
